@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mess-management.iml" filepath="$PROJECT_DIR$/.idea/mess-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mess-management-backend/messManagement.iml" filepath="$PROJECT_DIR$/Mess-management-backend/messManagement.iml" />
     </modules>
   </component>
 </project>
